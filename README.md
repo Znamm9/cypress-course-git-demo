@@ -1,1 +1,1 @@
-# cypress-course-git-demo
+# cypress-course-git-demo for students
